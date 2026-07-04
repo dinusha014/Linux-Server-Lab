@@ -17,8 +17,4 @@ A hands-on Linux administration project built on Ubuntu Linux.
 - Ubuntu 24.04 LTS
 - Oracle VirtualBox
 
-## Project Structure
 
-## Screenshots
-
-## Lessons Learned
